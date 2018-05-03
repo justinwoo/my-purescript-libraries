@@ -22,6 +22,10 @@ A lenient HTML parser, so you can work with a List of Tags parsed. Kind of like 
 
 Library for parsing and decoding INI files to a record type directly.
 
+### [Kushiyaki](https://github.com/justinwoo/purescript-kushiyaki)
+
+Library (for 0.12) for parsing a `Symbol` template and getting a function to parse a `String` into a record.
+
 ### [Choco-Pie](https://github.com/justinwoo/purescript-Choco-Pie)
 
 Library for creating cycles of PureScript-Behaviors Events, where you can make individual "drivers" for handling queries for effects and work with a pure "main" function that takes the driver events in as "sources" and outputs "sinks" of queries to the drivers. Similar to Cycle.js
