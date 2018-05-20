@@ -46,6 +46,10 @@ Headless Chrome.
 
 Record-based query building.
 
+### [Hibachi](https://github.com/justinwoo/purescript-hibachi)
+
+A simple `Variant (Unmatched String) (routes :: # Type)` routing library built on Kushiyaki.
+
 ### [Sunde](https://github.com/justinwoo/purescript-Sunde)
 
 Aff interface for spawning child processes.
