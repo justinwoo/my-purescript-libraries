@@ -116,6 +116,14 @@ Library for generating TypeScript types and io-ts schemas.
 
 ## Cool but obscure -- useful for libraries and experimentation
 
+### [Dango](https://github.com/justinwoo/purescript-dango)
+
+Sized lists using Symbols for keeping track of size
+
+### [Kazunoko](https://github.com/justinwoo/purescript-kazunoko)
+
+Symbol-literal arithmetic for small numbers (to be expanded with codegen)
+
 ### [Chahan](https://github.com/justinwoo/purescript-Chahan)
 
 Generic Sum and Product into type-level List.
