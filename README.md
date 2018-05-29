@@ -42,6 +42,9 @@ Library for refinements on values using a row type to track validations and auto
 
 Headless Chrome.
 
+### [Shoronpo](https://github.com/justinwoo/purescript-shoronpo)
+
+A library for type-level Symbol formatting with other Symbols, e.g. intercalated record labels
 
 ### [Jajanmen](https://github.com/justinwoo/purescript-jajanmen)
 
