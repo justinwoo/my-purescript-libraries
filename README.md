@@ -42,6 +42,11 @@ Library for refinements on values using a row type to track validations and auto
 
 Headless Chrome.
 
+
+### [Jajanmen](https://github.com/justinwoo/purescript-jajanmen)
+
+Cool type-safe Symbol query parameterized helper for Node-SQLite3.
+
 ### [Chanpon](https://github.com/justinwoo/purescript-Chanpon)
 
 Record-based query building.
