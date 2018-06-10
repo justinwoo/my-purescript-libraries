@@ -6,6 +6,10 @@ A catalog of my PureScript libraries with some notes about what they are, what t
 
 My most useful libraries, that I think almost everyone should use.
 
+### [Package-Sets-EX](https://github.com/justinwoo/package-sets-ex)
+
+Dhall-based configuration for package-sets.
+
 ### [Simple-Json](https://github.com/justinwoo/purescript-Simple-Json)
 
 Library for serializing JSON automatically for type aliases, especially of record types using row type information.
