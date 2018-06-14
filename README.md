@@ -6,7 +6,7 @@ A catalog of my PureScript libraries with some notes about what they are, what t
 
 My most useful libraries, that I think almost everyone should use.
 
-### [Package-Sets-EX](https://github.com/justinwoo/package-sets-ex)
+### [Spacchetti](https://github.com/justinwoo/spacchetti)
 
 Dhall-based configuration for package-sets.
 
