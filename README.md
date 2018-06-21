@@ -2,6 +2,8 @@
 
 A catalog of my PureScript libraries with some notes about what they are, what they do.
 
+If any of these don't build, let me know on Twitter and I can help you out. It's probably just a small tweak away.
+
 ## Most useful
 
 My most useful libraries, that I think almost everyone should use.
