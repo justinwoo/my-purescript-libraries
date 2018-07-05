@@ -94,6 +94,10 @@ A wrapper and partial typing for Telegram api.
 
 ## Somewhat useful
 
+### [Type-IsEqual](https://github.com/justinwoo/purescript-type-isequal)
+
+Type equality result as Boolean kind for use in type-level programming
+
 ### [Ffi-Props](https://github.com/justinwoo/purescript-Ffi-Props)
 
 Library to work with FFI props with row type parameters.
