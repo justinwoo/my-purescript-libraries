@@ -20,17 +20,9 @@ Library for serializing JSON automatically for type aliases, especially of recor
 
 Library for giving you a basically Union-typed interface for `fetch` on Browser and on Node.
 
-### [Lenient-Html-Parser](https://github.com/justinwoo/purescript-Lenient-Html-Parser)
+### [Toppokki](https://github.com/justinwoo/purescript-Toppokki)
 
-A lenient HTML parser, so you can work with a List of Tags parsed. Kind of like TagSoup.
-
-### [Tortellini](https://github.com/justinwoo/purescript-Tortellini)
-
-Library for parsing and decoding INI files to a record type directly.
-
-### [Kushiyaki](https://github.com/justinwoo/purescript-kushiyaki)
-
-Library (for 0.12) for parsing a `Symbol` template and getting a function to parse a `String` into a record.
+Bindings for [Puppeteer](https://github.com/GoogleChrome/puppeteer), for when you need to do things with headless Chrome.
 
 ### [Choco-Pie](https://github.com/justinwoo/purescript-Choco-Pie)
 
@@ -40,13 +32,21 @@ Library for creating cycles of PureScript-Behaviors Events, where you can make i
 
 Cool libraries that are useful for applications or those that I most commonly use.
 
+### [Tortellini](https://github.com/justinwoo/purescript-Tortellini)
+
+Library for parsing and decoding INI files to a record type directly.
+
+### [Lenient-Html-Parser](https://github.com/justinwoo/purescript-Lenient-Html-Parser)
+
+A lenient HTML parser, so you can work with a List of Tags parsed. Kind of like TagSoup.
+
+### [Kushiyaki](https://github.com/justinwoo/purescript-kushiyaki)
+
+Library (for 0.12) for parsing a `Symbol` template and getting a function to parse a `String` into a record.
+
 ### [Home-Run-Ball](https://github.com/justinwoo/purescript-Home-Run-Ball)
 
 Library for refinements on values using a row type to track validations and automatically apply validations in the row type parameter.
-
-### [Toppokki](https://github.com/justinwoo/purescript-Toppokki)
-
-Headless Chrome.
 
 ### [Shoronpo](https://github.com/justinwoo/purescript-shoronpo)
 
