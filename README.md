@@ -52,6 +52,10 @@ Library for refinements on values using a row type to track validations and auto
 
 A library for type-level Symbol formatting with other Symbols, e.g. intercalated record labels
 
+### [Biang](https://github.com/justinwoo/purescript-biang)
+
+A library for converting generic reps of Sum and Product to row types, for whatever convenient usage needs at the type level.
+
 ### [Jajanmen](https://github.com/justinwoo/purescript-jajanmen)
 
 Cool type-safe Symbol query parameterized helper for Node-SQLite3.
