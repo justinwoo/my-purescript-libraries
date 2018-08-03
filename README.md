@@ -56,10 +56,13 @@ A library for type-level Symbol formatting with other Symbols, e.g. intercalated
 
 A library for converting generic reps of Sum and Product to row types, for whatever convenient usage needs at the type level.
 
+### [Tanghulu](https://github.com/justinwoo/purescript-tanghulu)
+
+A library for working with unlimited type-level naturals using an encoding of . in Symbol.
+
 ### [Puchitomato](https://github.com/justinwoo/purescript-puchitomato)
 
 A small module for a string literal type that guarantees a String value the same as its Symbol parameter.
-
 
 ### [Jajanmen](https://github.com/justinwoo/purescript-jajanmen)
 
