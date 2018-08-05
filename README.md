@@ -44,6 +44,10 @@ A lenient HTML parser, so you can work with a List of Tags parsed. Kind of like 
 
 Library (for 0.12) for parsing a `Symbol` template and getting a function to parse a `String` into a record.
 
+### [Kushikatsu](https://github.com/justinwoo/purescript-kushikatsu)
+
+Simple routing with Kushiyaki.
+
 ### [Home-Run-Ball](https://github.com/justinwoo/purescript-Home-Run-Ball)
 
 Library for refinements on values using a row type to track validations and automatically apply validations in the row type parameter.
