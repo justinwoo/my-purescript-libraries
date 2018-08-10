@@ -56,6 +56,10 @@ Library for refinements on values using a row type to track validations and auto
 
 A library for type-level Symbol formatting with other Symbols, e.g. intercalated record labels
 
+### [Expect-Inferred](https://github.com/justinwoo/purescript-expect-inferred)
+
+Library for checking inferred types of values.
+
 ### [Biang](https://github.com/justinwoo/purescript-biang)
 
 A library for converting generic reps of Sum and Product to row types, for whatever convenient usage needs at the type level.
