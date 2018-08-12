@@ -114,6 +114,10 @@ A wrapper and partial typing for Telegram api.
 
 ## Somewhat useful
 
+### [AlphaSucc](https://github.com/justinwoo/purescript-alphasucc)
+
+Alphabetical successions for providing labels for type-level programming.
+
 ### [Type-IsEqual](https://github.com/justinwoo/purescript-type-isequal)
 
 Type equality result as Boolean kind for use in type-level programming
