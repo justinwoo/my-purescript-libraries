@@ -20,7 +20,7 @@ Library (for 0.12) for parsing a `Symbol` template and getting a function to par
 
 ## [Kushikatsu](https://github.com/justinwoo/purescript-kushikatsu)
 
-Simple routing with Kushiyaki.
+A simple `Variant (Unmatched String) (routes :: # Type)` routing library built on Kushiyaki.
 
 ## [Home-Run-Ball](https://github.com/justinwoo/purescript-Home-Run-Ball)
 
@@ -30,9 +30,6 @@ Library for refinements on values using a row type to track validations and auto
 
 Cool type-safe Symbol query parameterized helper for Node-SQLite3.
 
-## [Hibachi](https://github.com/justinwoo/purescript-hibachi)
-
-A simple `Variant (Unmatched String) (routes :: # Type)` routing library built on Kushiyaki.
 
 ## [Gomtang-Basic](https://github.com/justinwoo/purescript-Gomtang-Basic)
 
