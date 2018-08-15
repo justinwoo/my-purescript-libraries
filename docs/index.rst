@@ -11,12 +11,12 @@ Pages
 ==================
 
 .. toctree::
-  codegen
-  cool
   for-everyone
+  cool
   node-related
-  other-demos
-  outdated-stream-related
-  redux
   type-level-demos
   type-level-utils
+  codegen
+  outdated-stream-related
+  redux
+  other-demos
