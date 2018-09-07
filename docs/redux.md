@@ -2,6 +2,10 @@
 
 I'm sorry you clicked on this link. Use the projects as references to what you might do in your own project, but don't expect them to be that useful by themselves.
 
+## [Redux-DevTools](https://github.com/justinwoo/purescript-redux-devtools)
+
+Some bindings to work with Redux DevTools.
+
 ## [Gorebab](https://github.com/justinwoo/purescript-Gorebab)
 
 Redux-Observable typed more correctly.
