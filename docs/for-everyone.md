@@ -13,3 +13,7 @@ Library for serializing JSON automatically for type aliases, especially of recor
 ## [Milkis](https://github.com/justinwoo/purescript-Milkis)
 
 Library for giving you a basically Union-typed interface for `fetch` on Browser and on Node. A simple to use alternative to the [Affjax](https://github.com/slamdata/purescript-affjax) library.
+
+## [Chirashi](https://github.com/justinwoo/purescript-chirashi)
+
+An easy way to work with Errors by inserting a Variant, and reading it out later.
