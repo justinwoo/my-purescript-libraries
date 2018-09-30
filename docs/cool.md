@@ -22,6 +22,10 @@ A library to reflect a record of proxies, so you don't have to repeat it and all
 
 A library to easily use Naporitan with a record of `SProxy` of keys of a row type.
 
+## [Bibimbap](https://github.com/justinwoo/purescript-bibimbap)
+
+The flip side of [Chirashi](https://github.com/justinwoo/purescript-chirashi), simply storing sum type values and retrieving them by using the constructor name as a test value, by using `Generic.Rep` to get constructor names from a sum type definition.
+
 ## [Kushiyaki](https://github.com/justinwoo/purescript-kushiyaki)
 
 Library (for 0.12) for parsing a `Symbol` template and getting a function to parse a `String` into a record.
