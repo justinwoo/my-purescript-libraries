@@ -14,6 +14,10 @@ Library for parsing and decoding INI files to a record type directly.
 
 A lenient HTML parser, so you can work with a List of Tags parsed. Kind of like TagSoup.
 
+## [Sijidou](https://github.com/justinwoo/purescript-sijidou)
+
+A library for matching a string into a record of functions of statically known Symbol proxies.
+
 ## [Naporitan](https://github.com/justinwoo/purescript-naporitan)
 
 A library to reflect a record of proxies, so you don't have to repeat it and all.
