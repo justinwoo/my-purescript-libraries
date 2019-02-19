@@ -6,6 +6,14 @@ Cool libraries using types to accomplish very practical things
 
 Library for creating cycles of PureScript-Behaviors Events, where you can make individual "drivers" for handling queries for effects and work with a pure "main" function that takes the driver events in as "sources" and outputs "sinks" of queries to the drivers. Similar to Cycle.js
 
+## [Kishimen](https://github.com/justinwoo/purescript-kishimen)
+
+Use sum types with Generic instances to get Variants out. Useful for JSON deserialization among other things.
+
+## [Mochi](https://github.com/justinwoo/purescript-mochi)
+
+Create record constructor functions from record types.
+
 ## [Tortellini](https://github.com/justinwoo/purescript-Tortellini)
 
 Library for parsing and decoding INI files to a record type directly.
@@ -45,7 +53,6 @@ Library for refinements on values using a row type to track validations and auto
 ## [Jajanmen](https://github.com/justinwoo/purescript-jajanmen)
 
 Cool type-safe Symbol query parameterized helper for Node-SQLite3.
-
 
 ## [Gomtang-Basic](https://github.com/justinwoo/purescript-Gomtang-Basic)
 
