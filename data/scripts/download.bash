@@ -1,0 +1,6 @@
+wget "https://api.github.com/users/justinwoo/repos?page=1&per_page=100"
+wget "https://api.github.com/users/justinwoo/repos?page=2&per_page=100"
+wget "https://api.github.com/users/justinwoo/repos?page=3&per_page=100"
+wget "https://api.github.com/users/justinwoo/repos?page=4&per_page=100"
+wget "https://api.github.com/users/justinwoo/repos?page=5&per_page=100"
+wget "https://api.github.com/users/justinwoo/repos?page=6&per_page=100"
