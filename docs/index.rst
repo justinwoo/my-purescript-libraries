@@ -1,6 +1,10 @@
 My PureScript Libraries
 ============================
 
+DEPRECATED: this content will be moved to GitHub for ease of maintenance.
+
+===============================
+
 This is a glorified list of libraries that I have written for PureScript.
 
 If any of these don't build, let me know on Twitter and I can help you out. It's probably just a small tweak away.
